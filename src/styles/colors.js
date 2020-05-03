@@ -1,0 +1,17 @@
+export const COLOR_THUMB_TINT = '#7aa1d4';
+export const ICON = '#979797';
+export const TEXT_INPUT_UNDERLINE = '#2196F3';
+export const TIPPING_COLOR = '#4CAF50';
+export const NAV_BAR = '#3fd2c2';
+export const FORM_BG = '#f3f3f3';
+export const FIRST_TIME = '#02D4BD';
+export const TIPEE = '#FFC107'; //'#FABF23'
+export const TIPPER = '#FF9800'; //'#FABF23'
+export const MERCHANT = '#FD783A';
+export const TEXT_HEAVY = '#000';
+export const TEXT_MED = '#545454';
+export const TEXT_LIGHT = '#9B9B9B';
+export const STOP = '#FO3535';
+export const GO = '#14D775';
+export const BLACK = '#000000';
+export const WHITE = '#ffffff';

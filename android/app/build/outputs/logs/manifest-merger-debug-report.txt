@@ -1,0 +1,766 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d4d94e30acd67eb076000e234a0f4ac4\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-sweet-alert-best] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-sweet-alert-best\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_async-storage] D:\Wallet-Mobile-api-work(patched)\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-contacts] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-rsa-native] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-rsa-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-splash-screen] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c74c7d3c6535122b498ffb44ca1ac012\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\eb9c2537333255279581415dc72cb0bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\6ef900cb7344ced65e36a0d18fa9c415\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3c575b0dcd32263e5833bb23b2edc63d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dac0559ad0d8adeed10acd37732033b5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\14b5b4583e3c2dde532f03d7c70989fc\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\30add0d68e5e61e92e65ae62921a3655\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16ae4a8b9a3fe51c14ed2bae797e6c64\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\02be5c73104cec508dbd0c34e4bc4589\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f7810f92e53be30312762ca0c9d99f60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:17:1-29:12
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de91b8f667ca2b4f085e084a8409d766\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\714d9a84ab5a3f6643eff6a80b972cd7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\55b6135027e6bd015c3099aaa85af2af\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\a9e905c66b742e58dc773f35063467f7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b04e07a7febe346137a0f4b49867396e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dfffd518924613b2b7a5bcedad9ff232\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbc4cd32444a1fb4c53510c1bd30363a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1525aee518001877a78b9018214a65bc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fdc4622dbd281f157dc84c549852c72b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\89432e6d03c8dca43ef376aac57b716c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\23bff78d81647be83e304e94a89e8649\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\38254e6c2c1e44a15945657f10aad61d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7f427296985104e1fb17b71fdf6b629\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbf985e86d99c15f7f04563580255b93\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ea13a21edbc3ca8aa472cd9f1debdaf6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7e255dc8da5a6d8e6e0929fdb0764f2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\4a3a6d1a48c5239d2ac349f025a0d155\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:17:1-28:12
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\be2530535c21eeb476e27eaaf0814eb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fad76ad338802abb38bc0875e168e1c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1710a4a8588806f125582896a03ef388\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f8927ba0c3537c6bf58eb1ccbc43a5b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d571a480318c103d1e19efe2ddae8986\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8d77db753406622bb8e5332be26848b4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f40d92798620b67a90c06566cb01292e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c0146963790426092b35ad6de801a0b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c7dacae9f281bd888c2fccf8f4e1646c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ef9aedac966bcb201363487044ba6e38\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\764af678558df5470bc0c8c7978b0274\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64300727a8ace246d7eb856437ac3f3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\675611cc253cbf8c2af1fe12b9f6f2f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3799c46ea3007e3a5b57c2dc17cf6ee7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\e0e2a9df896aba278fa97a5c727f4e95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8ed5fe03bb6ae48ea59fa36437bf5d9b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8fbd7a30a528c561479c9f12a4beb0fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1c5a233e44f435fe0b61bb5eb28776c2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ff9b219e9ba212806a9ec21e88e40937\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\188d8ad34ab4c02109e1592b70b9c545\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c6c66da0e07c1955ccb7ef693585ea6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\51a0532c1e54732f1caad10d837ca8a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de295d2043774a80af5ebd039d282061\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f99dad5563ed1616929ebc241d62527\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\07ece30fb7dbaf32424ce0eff99f9e3c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\df3033162fb6f1514c0f0381606ed6a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\2df7d6c31b2a1e0feadba22337673e34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\99a71bd3b059c2d9851c9d08d1ce26c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\abee11a0c78d7f938ead73fe1a9ac76b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\968b890ff07d966e2da671e86e1f581d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8898225b49acdc3ec13f1397597af486\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16877bd5074b0ca3d7118e7002626bd4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1158608570ec9ff05e6ac79fb28d9658\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\36601f3caa1aaaaf32e4317f88d4ed2b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9360eed025bb55f496480ca7e66e0de9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\65fda1511546b4534bb9ca746304d260\AndroidManifest.xml:2:1-9:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\cf1456fecaa75540a0862384b9bc894f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8dc683f02b9fe5dfebbf2be8e519cd8f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\da0124bc985ffb3fe3a7ec67964c5323\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-66
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-66
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:10:5-66
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.CAMERA
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-65
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-65
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:9:5-65
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:8:22-70
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-splash-screen] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c74c7d3c6535122b498ffb44ca1ac012\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c74c7d3c6535122b498ffb44ca1ac012\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\6ef900cb7344ced65e36a0d18fa9c415\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\6ef900cb7344ced65e36a0d18fa9c415\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3c575b0dcd32263e5833bb23b2edc63d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3c575b0dcd32263e5833bb23b2edc63d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dac0559ad0d8adeed10acd37732033b5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dac0559ad0d8adeed10acd37732033b5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\14b5b4583e3c2dde532f03d7c70989fc\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\14b5b4583e3c2dde532f03d7c70989fc\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\30add0d68e5e61e92e65ae62921a3655\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\30add0d68e5e61e92e65ae62921a3655\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16ae4a8b9a3fe51c14ed2bae797e6c64\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16ae4a8b9a3fe51c14ed2bae797e6c64\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f7810f92e53be30312762ca0c9d99f60\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f7810f92e53be30312762ca0c9d99f60\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:22:5-27:19
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de91b8f667ca2b4f085e084a8409d766\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de91b8f667ca2b4f085e084a8409d766\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\714d9a84ab5a3f6643eff6a80b972cd7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\714d9a84ab5a3f6643eff6a80b972cd7\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\23bff78d81647be83e304e94a89e8649\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\23bff78d81647be83e304e94a89e8649\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\38254e6c2c1e44a15945657f10aad61d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\38254e6c2c1e44a15945657f10aad61d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7f427296985104e1fb17b71fdf6b629\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7f427296985104e1fb17b71fdf6b629\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbf985e86d99c15f7f04563580255b93\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbf985e86d99c15f7f04563580255b93\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ea13a21edbc3ca8aa472cd9f1debdaf6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ea13a21edbc3ca8aa472cd9f1debdaf6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7e255dc8da5a6d8e6e0929fdb0764f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7e255dc8da5a6d8e6e0929fdb0764f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\4a3a6d1a48c5239d2ac349f025a0d155\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\4a3a6d1a48c5239d2ac349f025a0d155\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:22:5-26:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:19:5-24:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de295d2043774a80af5ebd039d282061\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de295d2043774a80af5ebd039d282061\AndroidManifest.xml:24:5-25:19
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8dc683f02b9fe5dfebbf2be8e519cd8f\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8dc683f02b9fe5dfebbf2be8e519cd8f\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:14:7-39
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:14:7-39
+	tools:ignore
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:7:75-114
+	tools:targetApi
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:15:7-41
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:16:7-33
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:16:7-33
+	android:theme
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:18:7-38
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:18:7-38
+	tools:replace
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:17:7-35
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:17:7-35
+	android:usesCleartextTraffic
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:13:7-38
+activity#com.simsec.wallet.MainActivity
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:19:7-29:18
+	android:label
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:launchMode
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:22:9-39
+	android:windowSoftInputMode
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:30:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:33:9-37:19
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:33:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:34:13-36:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:35:25-75
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:38:9-104
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:38:18-101
+receiver#io.invertase.firebase.notifications.RNFirebaseNotificationReceiver
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:41:9-102
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:41:19-100
+receiver#io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:42:9-49:20
+	android:enabled
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:42:19-41
+	android:exported
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:42:42-65
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:42:67-155
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:43:13-48:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:44:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:45:17-81
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:45:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:46:25-79
+category#android.intent.category.DEFAULT
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml:47:27-73
+uses-sdk
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d4d94e30acd67eb076000e234a0f4ac4\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d4d94e30acd67eb076000e234a0f4ac4\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-sweet-alert-best] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-sweet-alert-best\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sweet-alert-best] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-sweet-alert-best\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:@react-native-community_async-storage] D:\Wallet-Mobile-api-work(patched)\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] D:\Wallet-Mobile-api-work(patched)\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-contacts] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-contacts] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-rsa-native] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-rsa-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-rsa-native] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-rsa-native\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-spinkit] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-spinkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-video\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c74c7d3c6535122b498ffb44ca1ac012\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c74c7d3c6535122b498ffb44ca1ac012\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\eb9c2537333255279581415dc72cb0bb\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\eb9c2537333255279581415dc72cb0bb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\6ef900cb7344ced65e36a0d18fa9c415\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\6ef900cb7344ced65e36a0d18fa9c415\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3c575b0dcd32263e5833bb23b2edc63d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3c575b0dcd32263e5833bb23b2edc63d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dac0559ad0d8adeed10acd37732033b5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dac0559ad0d8adeed10acd37732033b5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\14b5b4583e3c2dde532f03d7c70989fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\14b5b4583e3c2dde532f03d7c70989fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\30add0d68e5e61e92e65ae62921a3655\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\30add0d68e5e61e92e65ae62921a3655\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16ae4a8b9a3fe51c14ed2bae797e6c64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16ae4a8b9a3fe51c14ed2bae797e6c64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\02be5c73104cec508dbd0c34e4bc4589\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\02be5c73104cec508dbd0c34e4bc4589\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f7810f92e53be30312762ca0c9d99f60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f7810f92e53be30312762ca0c9d99f60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de91b8f667ca2b4f085e084a8409d766\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de91b8f667ca2b4f085e084a8409d766\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\714d9a84ab5a3f6643eff6a80b972cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\714d9a84ab5a3f6643eff6a80b972cd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\55b6135027e6bd015c3099aaa85af2af\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\55b6135027e6bd015c3099aaa85af2af\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\a9e905c66b742e58dc773f35063467f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\a9e905c66b742e58dc773f35063467f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b04e07a7febe346137a0f4b49867396e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b04e07a7febe346137a0f4b49867396e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dfffd518924613b2b7a5bcedad9ff232\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\dfffd518924613b2b7a5bcedad9ff232\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbc4cd32444a1fb4c53510c1bd30363a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbc4cd32444a1fb4c53510c1bd30363a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1525aee518001877a78b9018214a65bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1525aee518001877a78b9018214a65bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fdc4622dbd281f157dc84c549852c72b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fdc4622dbd281f157dc84c549852c72b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\89432e6d03c8dca43ef376aac57b716c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\89432e6d03c8dca43ef376aac57b716c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\23bff78d81647be83e304e94a89e8649\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\23bff78d81647be83e304e94a89e8649\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\38254e6c2c1e44a15945657f10aad61d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\38254e6c2c1e44a15945657f10aad61d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7f427296985104e1fb17b71fdf6b629\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7f427296985104e1fb17b71fdf6b629\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbf985e86d99c15f7f04563580255b93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fbf985e86d99c15f7f04563580255b93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ea13a21edbc3ca8aa472cd9f1debdaf6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ea13a21edbc3ca8aa472cd9f1debdaf6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7e255dc8da5a6d8e6e0929fdb0764f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b7e255dc8da5a6d8e6e0929fdb0764f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\4a3a6d1a48c5239d2ac349f025a0d155\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\4a3a6d1a48c5239d2ac349f025a0d155\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:20:5-44
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\be2530535c21eeb476e27eaaf0814eb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\be2530535c21eeb476e27eaaf0814eb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fad76ad338802abb38bc0875e168e1c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\fad76ad338802abb38bc0875e168e1c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1710a4a8588806f125582896a03ef388\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1710a4a8588806f125582896a03ef388\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f8927ba0c3537c6bf58eb1ccbc43a5b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f8927ba0c3537c6bf58eb1ccbc43a5b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d571a480318c103d1e19efe2ddae8986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\d571a480318c103d1e19efe2ddae8986\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8d77db753406622bb8e5332be26848b4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8d77db753406622bb8e5332be26848b4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f40d92798620b67a90c06566cb01292e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f40d92798620b67a90c06566cb01292e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c0146963790426092b35ad6de801a0b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c0146963790426092b35ad6de801a0b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c7dacae9f281bd888c2fccf8f4e1646c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c7dacae9f281bd888c2fccf8f4e1646c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ef9aedac966bcb201363487044ba6e38\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ef9aedac966bcb201363487044ba6e38\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\764af678558df5470bc0c8c7978b0274\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\764af678558df5470bc0c8c7978b0274\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64300727a8ace246d7eb856437ac3f3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64300727a8ace246d7eb856437ac3f3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\675611cc253cbf8c2af1fe12b9f6f2f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\675611cc253cbf8c2af1fe12b9f6f2f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3799c46ea3007e3a5b57c2dc17cf6ee7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\3799c46ea3007e3a5b57c2dc17cf6ee7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\e0e2a9df896aba278fa97a5c727f4e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\e0e2a9df896aba278fa97a5c727f4e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8ed5fe03bb6ae48ea59fa36437bf5d9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8ed5fe03bb6ae48ea59fa36437bf5d9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8fbd7a30a528c561479c9f12a4beb0fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8fbd7a30a528c561479c9f12a4beb0fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1c5a233e44f435fe0b61bb5eb28776c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1c5a233e44f435fe0b61bb5eb28776c2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ff9b219e9ba212806a9ec21e88e40937\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\ff9b219e9ba212806a9ec21e88e40937\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\188d8ad34ab4c02109e1592b70b9c545\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\188d8ad34ab4c02109e1592b70b9c545\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c6c66da0e07c1955ccb7ef693585ea6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c6c66da0e07c1955ccb7ef693585ea6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f61d0977568fa0d17e9fe08ef6ed0880\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\51a0532c1e54732f1caad10d837ca8a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\51a0532c1e54732f1caad10d837ca8a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de295d2043774a80af5ebd039d282061\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\de295d2043774a80af5ebd039d282061\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f99dad5563ed1616929ebc241d62527\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5f99dad5563ed1616929ebc241d62527\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\07ece30fb7dbaf32424ce0eff99f9e3c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\07ece30fb7dbaf32424ce0eff99f9e3c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\df3033162fb6f1514c0f0381606ed6a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\df3033162fb6f1514c0f0381606ed6a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\2df7d6c31b2a1e0feadba22337673e34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\2df7d6c31b2a1e0feadba22337673e34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\99a71bd3b059c2d9851c9d08d1ce26c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\99a71bd3b059c2d9851c9d08d1ce26c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\abee11a0c78d7f938ead73fe1a9ac76b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\abee11a0c78d7f938ead73fe1a9ac76b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\968b890ff07d966e2da671e86e1f581d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\968b890ff07d966e2da671e86e1f581d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8898225b49acdc3ec13f1397597af486\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8898225b49acdc3ec13f1397597af486\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16877bd5074b0ca3d7118e7002626bd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\16877bd5074b0ca3d7118e7002626bd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1158608570ec9ff05e6ac79fb28d9658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1158608570ec9ff05e6ac79fb28d9658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\36601f3caa1aaaaf32e4317f88d4ed2b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\36601f3caa1aaaaf32e4317f88d4ed2b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9360eed025bb55f496480ca7e66e0de9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9360eed025bb55f496480ca7e66e0de9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\65fda1511546b4534bb9ca746304d260\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\65fda1511546b4534bb9ca746304d260\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\cf1456fecaa75540a0862384b9bc894f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\cf1456fecaa75540a0862384b9bc894f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8dc683f02b9fe5dfebbf2be8e519cd8f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\8dc683f02b9fe5dfebbf2be8e519cd8f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\da0124bc985ffb3fe3a7ec67964c5323\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\da0124bc985ffb3fe3a7ec67964c5323\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:5:5-77
+MERGED from [:react-native-sweet-alert-best] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-sweet-alert-best\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-78
+MERGED from [:react-native-sweet-alert-best] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-sweet-alert-best\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\Wallet-Mobile-api-work(patched)\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-116
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-71
+uses-feature#android.hardware.fingerprint
+ADDED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-biometrics] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-biometrics\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-52
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-ble-manager] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-ble-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-53
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:12:5-14:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+MERGED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:15:5-17:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\5d328b165fd19b5dd980a6363c22b436\AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\b3c4172e800f6c9f193d4de9437d4022\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\1288d2a1a34278e4588d294dc68fa92a\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\64780174803a6259d9e4393cde5cda11\AndroidManifest.xml:24:13-79
+uses-feature#android.hardware.camera.flash
+ADDED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:react-native-awesome-card-io] D:\Wallet-Mobile-api-work(patched)\node_modules\react-native-awesome-card-io\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-53
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\f040c28db502967410e4389b00672096\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\32c721eb0ea9f7026500665074fd27e2\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\c4677e4615c1a901fb6b2e42d34b835e\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9947da421a164a0081438ee9abcbde22\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\9259284f0f4a4ecbbd8f35d4b6ba8ff4\AndroidManifest.xml:24:13-58
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\panda\.gradle\caches\transforms-2\files-2.1\7ef944207c7de6dae3e6bd66782defe6\AndroidManifest.xml:23:19-67

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629337820350",
+    "firebase_url": "https://wallet-a65c9.firebaseio.com",
+    "project_id": "wallet-a65c9",
+    "storage_bucket": "wallet-a65c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629337820350:android:edd48ca82a92726f",
+        "android_client_info": {
+          "package_name": "com.simsec.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629337820350-j6e0u8a5lonnnratd2448d59mcodbjtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjuPVnUQBd2ISVbhgHc-gKEvh6rAzD4mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629337820350-j6e0u8a5lonnnratd2448d59mcodbjtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629337820350-7kqbb817upng1jm9ds0hoa8viov5navs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simsec.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
