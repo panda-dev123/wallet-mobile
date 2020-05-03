@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Wallet-Mobile-api-work(patched)\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+            "outputFile": "/Users/mac/Desktop/Projects/Personal/wallet-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panda\\.gradle\\caches\\transforms-2\\files-2.1\\714d9a84ab5a3f6643eff6a80b972cd7\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6564e633aaeba97020100660b9ac13ed/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Wallet-Mobile-api-work(patched)\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "/Users/mac/Desktop/Projects/Personal/wallet-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panda\\.gradle\\caches\\transforms-2\\files-2.1\\55b6135027e6bd015c3099aaa85af2af\\res\\values-v17\\values-v17.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/202f16969bc8dd79d10d198794b71dea/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

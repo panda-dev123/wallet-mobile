@@ -1,10 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Wallet-Mobile-api-work(patched)\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/Users/mac/Desktop/Projects/Personal/wallet-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\panda\\.gradle\\caches\\transforms-2\\files-2.1\\2df7d6c31b2a1e0feadba22337673e34\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/202f16969bc8dd79d10d198794b71dea/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/b36dbf780ea5618ee384cb98ff1679b1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,18 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\panda\\.gradle\\caches\\transforms-2\\files-2.1\\55b6135027e6bd015c3099aaa85af2af\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
-                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\panda\\.gradle\\caches\\transforms-2\\files-2.1\\714d9a84ab5a3f6643eff6a80b972cd7\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6564e633aaeba97020100660b9ac13ed/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
